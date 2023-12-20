@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Shiratech_Params</id>
+    <version>1.0.0</version>
+    <authors>Shiratech_Params</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="MQTTnet" version="4.1.4.563" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.2" exclude="Build,Analyzers" />
+        <dependency id="System.IO.Ports" version="7.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/net5.0/config.json" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="D:\iSoft\Projects\RnD\Datalogger\Datalogger_API_MS\bin\Debug\net5.0\Shiratech_Params.runtimeconfig.json" target="lib\net5.0\Shiratech_Params.runtimeconfig.json" />
+    <file src="D:\iSoft\Projects\RnD\Datalogger\Datalogger_API_MS\bin\Debug\net5.0\Shiratech_Params.dll" target="lib\net5.0\Shiratech_Params.dll" />
+    <file src="D:\iSoft\Projects\RnD\Datalogger\Datalogger_API_MS\config.json" target="content\config.json" />
+    <file src="D:\iSoft\Projects\RnD\Datalogger\Datalogger_API_MS\config.json" target="contentFiles\any\net5.0\config.json" />
+  </files>
+</package>

@@ -1,0 +1,300 @@
+﻿{
+  "shiratechs": [
+    {
+      "sensors": [
+        {
+          "Name": "Magnetometer",
+          "registers": [
+            {
+              "Name": "MagnetometerXMax",
+              "Address": 40303,
+              "Description": "ac"
+            },
+            {
+              "Name": "MagnetometerYMax",
+              "Address": 40304,
+              "Description": "ac"
+            },
+            {
+              "Name": "MagnetometerZMax",
+              "Address": 40305,
+              "Description": "ac"
+            },
+            {
+              "Name": "MagnetometerXMin",
+              "Address": 40306,
+              "Description": "ac"
+            },
+            {
+              "Name": "MagnetometerYMin",
+              "Address": 40307,
+              "Description": "ac"
+            },
+            {
+              "Name": "MagnetometerZMin",
+              "Address": 40308,
+              "Description": "ac"
+            },
+            {
+              "Name": "MagnetometerXAvg",
+              "Address": 40309,
+              "Description": "ac"
+            },
+            {
+              "Name": "MagnetometerYAvg",
+              "Address": 40310,
+              "Description": "ac"
+            },
+            {
+              "Name": "MagnetometerZAvg",
+              "Address": 40311,
+              "Description": "ac"
+            },
+            {
+              "Name": "MagnetometerXStd",
+              "Address": 40312,
+              "Description": "ac"
+            },
+            {
+              "Name": "MagnetometerYStd",
+              "Address": 40313,
+              "Description": "ac"
+            },
+            {
+              "Name": "MagnetometerZStd",
+              "Address": 40314,
+              "Description": "ac"
+            },
+            {
+              "Name": "MagnetometerXRMS",
+              "Address": 40315,
+              "Description": "ac"
+            },
+            {
+              "Name": "MagnetometerYRMS",
+              "Address": 40316,
+              "Description": "ac"
+            },
+            {
+              "Name": "MagnetometerZRMS",
+              "Address": 40317,
+              "Description": "ac"
+            }
+          ]
+        },
+        {
+          "Name": "Accelerometer",
+          "registers": [
+            {
+              "Name": "AccelerometerSecondaryXMax",
+              "Address": 40403,
+              "Description": "ac"
+            },
+            {
+              "Name": "AccelerometerSecondaryYMax",
+              "Address": 40404,
+              "Description": "ac"
+            },
+            {
+              "Name": "AccelerometerSecondaryZMax",
+              "Address": 40405,
+              "Description": "ac"
+            },
+            {
+              "Name": "AccelerometerSecondaryXMin",
+              "Address": 40406,
+              "Description": "ac"
+            },
+            {
+              "Name": "AccelerometerSecondaryYMin",
+              "Address": 40407,
+              "Description": "ac"
+            },
+            {
+              "Name": "AccelerometerSecondaryZMin",
+              "Address": 40408,
+              "Description": "ac"
+            },
+            {
+              "Name": "AccelerometerSecondaryXAvg",
+              "Address": 40409,
+              "Description": "ac"
+            },
+            {
+              "Name": "AccelerometerSecondaryYAvg",
+              "Address": 40410,
+              "Description": "ac"
+            },
+            {
+              "Name": "AccelerometerSecondaryZAvg",
+              "Address": 40411,
+              "Description": "ac"
+            },
+            {
+              "Name": "AccelerometerSecondaryXStd",
+              "Address": 40412,
+              "Description": "ac"
+            },
+            {
+              "Name": "AccelerometerSecondaryYStd",
+              "Address": 40413,
+              "Description": "ac"
+            },
+            {
+              "Name": "AccelerometerSecondaryZStd",
+              "Address": 40414,
+              "Description": "ac"
+            },
+            {
+              "Name": "AccelerometerSecondaryXRMS",
+              "Address": 40415,
+              "Description": "ac"
+            },
+            {
+              "Name": "AccelerometerSecondaryYRMS",
+              "Address": 40416,
+              "Description": "ac"
+            },
+            {
+              "Name": "AccelerometerSecondaryZRMS",
+              "Address": 40417,
+              "Description": "ac"
+            }
+          ]
+        },
+        {
+          "Name": "AccelerometerPrimary",
+          "registers": [
+            {
+              "Name": "AccelerometerPrimaryXMax",
+              "Address": 40503,
+              "Description": "ac"
+            },
+            {
+              "Name": "AccelerometerPrimaryYMax",
+              "Address": 40504,
+              "Description": "ac"
+            },
+            {
+              "Name": "AccelerometerPrimaryZMax",
+              "Address": 40505,
+              "Description": "ac"
+            },
+            {
+              "Name": "AccelerometerPrimaryXMin",
+              "Address": 40506,
+              "Description": "ac"
+            },
+            {
+              "Name": "AccelerometerPrimaryYMin",
+              "Address": 40507,
+              "Description": "ac"
+            },
+            {
+              "Name": "AccelerometerPrimaryZMin",
+              "Address": 40508,
+              "Description": "ac"
+            },
+            {
+              "Name": "AccelerometerPrimaryXAvg",
+              "Address": 40509,
+              "Description": "ac"
+            },
+            {
+              "Name": "AccelerometerPrimaryYAvg",
+              "Address": 40510,
+              "Description": "ac"
+            },
+            {
+              "Name": "AccelerometerPrimaryZAvg",
+              "Address": 40511,
+              "Description": "ac"
+            },
+            {
+              "Name": "AccelerometerPrimaryXStd",
+              "Address": 40512,
+              "Description": "ac"
+            },
+            {
+              "Name": "AccelerometerPrimaryYStd",
+              "Address": 40513,
+              "Description": "ac"
+
+            },
+            {
+              "Name": "AccelerometerPrimaryZStd",
+              "Address": 40514,
+              "Description": "ac"
+            },
+            {
+              "Name": "AccelerometerPrimaryXRMS",
+              "Address": 40515,
+              "Description": "ac"
+            },
+            {
+              "Name": "AccelerometerPrimaryYRMS",
+              "Address": 40516,
+              "Description": "ac"
+            },
+            {
+              "Name": "AccelerometerPrimaryZRMS",
+              "Address": 40517,
+              "Description": "ac"
+            }
+          ]
+        },
+        {
+          "Name": "Temperature",
+          "registers": [
+            {
+              "Name": "Temperature",
+              "Address": 40200,
+              "Description": "ac"
+            }
+          ]
+        },
+        {
+          "Name": "Microphone",
+          "registers": [
+            {
+              "Name": "MicrophoneMax",
+              "Address": 40603,
+              "Description": "ac"
+            },
+            {
+              "Name": "MicrophoneMin",
+              "Address": 40604,
+              "Description": "ac"
+            },
+            {
+              "Name": "MicrophoneAvg",
+              "Address": 40605,
+              "Description": "ac"
+            },
+            {
+              "Name": "MicrophoneStd",
+              "Address": 40606,
+              "Description": "ac"
+            },
+            {
+              "Name": "MicrophoneRMS",
+              "Address": 40607,
+              "Description": "ac"
+            }
+          ]
+        }
+      ],
+
+      "IPAddress": "192.168.3.254",
+      "Port": 502
+    }
+  ],
+  "readInterval": 1000,
+  "isRandom":false,
+  "mqttServer": {
+    "host": "103.3.246.165",
+    "port": 1883,
+    "pubTopic": "/vule/projects/datalogger/stations/IaDrang1/monitor",
+    "subTopic": "/vule/projects/datalogger/shiratechPoE/control"
+  }
+}
